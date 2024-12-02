@@ -5,7 +5,9 @@ Bu projem, Bootstrap kullanılarak geliştirilmiş amatör bir web sitesi tasar�
 # Özellikler
 
 Slider: Sayfa içindeki görselleri dinamik bir şekilde göstermek için kullanıldı.
+
 Formlar ve Butonlar: Bootstrap bileşenlerinden yararlanılarak şık ve işlevsel form ve butonlar eklendi.
+
 Navigasyon Çubuğu: Dinamik ve duyarlı bir navbar ile gezinme kolaylığı sağlandı.
 
 # Kullanılan Teknolojiler
